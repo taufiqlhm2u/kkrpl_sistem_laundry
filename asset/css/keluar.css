@@ -1,0 +1,15 @@
+    .cekKonfir {
+  background-color: #fff;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  width: 400px;
+  height: 200px;
+  padding-top: 30px;
+  padding-left: 20px;
+  display: block;
+}
+.klik {
+  margin-top: 40px;
+  display: flex;
+  gap: 25px;
+}
