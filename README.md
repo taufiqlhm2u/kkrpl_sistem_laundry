@@ -39,16 +39,13 @@ laundrymvc/
 
 ---
 
-## 🔥 Contoh Fitur (opsional)
+## 🔥 Contoh Fitur
 
 - Manajemen pelanggan
 - Input transaksi laundry
 - Status pengerjaan (Proses / Selesai / Diambil)
 - Cetak struk / invoice
 - Dashboard laporan
-
----
-
 
 ---
 
