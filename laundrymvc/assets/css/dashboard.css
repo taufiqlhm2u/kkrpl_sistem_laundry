@@ -1,0 +1,62 @@
+.content {
+  display: none;
+}
+.icon-pelanggan {
+  background-color: #d8eefe;
+  color: #2994f2;
+  width: 70px;
+  height: 70px;
+}
+
+.pelanggan:hover,
+.pelanggan:hover .icon-pelanggan {
+  background-color: #2994f2;
+  color: white;
+  transform: scale(1.1);
+  transition: all 0.2s ease;
+}
+
+.icon-masuk {
+  background-color: #e8e3fd;
+  color: #6e42f5;
+  width: 70px;
+  height: 70px;
+}
+
+.masuk:hover,
+.masuk:hover .icon-masuk {
+  background-color: #6e42f5;
+  color: white;
+  transform: scale(1.1);
+  transition: all 0.2s ease;
+}
+
+.icon-proses {
+  background-color: #feede2;
+  color: #e39b17;
+  width: 70px;
+  height: 70px;
+}
+
+.proses:hover,
+.proses:hover .icon-proses {
+  background-color: #e39b17;
+  color: white;
+  transform: scale(1.1);
+  transition: all 0.2s ease;
+}
+
+.icon-finish {
+  background-color: #ddf8e6;
+  color: #35c36c;
+  width: 70px;
+  height: 70px;
+}
+
+.finish:hover,
+.finish:hover .icon-finish {
+  background-color: #35c36c;
+  color: white;
+  transform: scale(1.1);
+  transition: all 0.2s ease;
+}
