@@ -43,7 +43,7 @@ laundrymvc/
 
 - Manajemen pelanggan
 - Input transaksi laundry
-- Status pengerjaan (Proses / Selesai / Diambil)
+- Status pengerjaan (Masuk / Proses / Selesai)
 - Cetak struk / invoice
 - Dashboard laporan
 
