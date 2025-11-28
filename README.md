@@ -74,7 +74,7 @@ Berikut beberapa tampilan menu utama pada Sistem Laundry:
 ### 📚 Laporan Laundry
 ![Laporan](laundrymvc/assets/img/preview/laporan.png)
 
-### 🧑 Profile Pengguna
+### 🧑 Profile Admin
 ![Profile](laundrymvc/assets/img/preview/profile.png)
 
 
