@@ -5,24 +5,25 @@ Dalam pengembangan project ini, saya menggunakan konsep **MVC (Model–View–Co
 
 ---
 
-## 📂 Struktur Folder
+### 📂 Struktur Folder Project
 
 laundrymvc/
 │
-├── app/ # Folder utama MVC 
-│ ├── Controllers/ # Mengatur request & logic aplikasi
-│ ├── Models/ # pengolahan database
-│ ├── Views/ # File tampilan (UI)
-│ ├── Config/ # Berisi config untuk alamat domain dan koneksi database
-│ └── Core/ # Routing, Database handler, BaseController, dll
+├── app/                     # Folder utama MVC
+│   ├── Controllers/         # Mengatur request & logic aplikasi
+│   ├── Models/              # Pengolahan database
+│   ├── Views/               # File tampilan (UI)
+│   ├── Config/              # Berisi config domain & koneksi database
+│   └── Core/                # Routing, Database handler, BaseController, dll
 │
-├── assets/ # Bootstrap, jQuery, CSS, JS, Images
-│ ├── css/
-│ ├── js/
-│ └── img/
+├── assets/                  # Bootstrap, jQuery, CSS, JS, Images
+│   ├── css/
+│   ├── js/
+│   └── img/
 │
-├── .htaccess # URL rewrite untuk routing MVC
-└── index.php # File utama / landing page aplikasi
+├── .htaccess                # URL rewrite untuk routing MVC
+└── index.php                # File utama / landing page aplikasi
+
 
 
 ---
