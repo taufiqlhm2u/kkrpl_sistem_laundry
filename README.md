@@ -14,7 +14,8 @@ laundrymvc/
 │   ├── Models/              # Pengolahan database
 │   ├── Views/               # File tampilan (UI)
 │   ├── Config/              # Berisi config domain & koneksi database
-│   └── Core/                # Routing, Database handler, BaseController, dll
+│   ├── Core/                # Routing, Database handler, BaseController, dll
+│  └── Init.php               # Autoload Dari folder core
 │
 ├── assets/                  # Bootstrap, jQuery, CSS, JS, Images
 │   ├── css/
