@@ -6,7 +6,7 @@ Dalam pengembangan project ini, saya menggunakan konsep **MVC (Model–View–Co
 ---
 
 ### 📂 Struktur Folder Project
-
+```bash
 laundrymvc/
 │
 ├── app/                     # Folder utama MVC
@@ -23,6 +23,7 @@ laundrymvc/
 │
 ├── .htaccess                # URL rewrite untuk routing MVC
 └── index.php                # File utama / landing page aplikasi
+
 
 
 
