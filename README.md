@@ -24,7 +24,7 @@ laundrymvc/
 ├── .htaccess                # URL rewrite untuk routing MVC
 └── index.php                # File utama / landing page aplikasi
 
-
+```
 
 
 ---
